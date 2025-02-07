@@ -1,19 +1,38 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDAwcmVqM3Q1Zmg5a2ozZzZ3b2YwaXY1emxpNGRnZ3puMWg2anpxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DLz5I4BGyRSOlbSC3o/giphy.gif" width="100"/>
-</div>
 👋 Привет, я Сабирджанова Амина - C# Developer
 
-<!--
-**aminasab/aminasab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Технологии
+ - C#
+ - WPF
+ - ASP.NET Core MVC
+ - PostgreSQL
+ - GIT
+ - Docker
+ - Entity Framework
+ - Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Образование и выпускные сертификаты
+- КНИТУ, Информатика и вычислительная техника, Информатика в социальной сфере
+- Google, UX-дизайн приложений
+- Технологический институт Джорджии, Введение в дизайн взаимодействия с пользователем
+- Отус онлайн-образование, C# разработка
+- КНИТУ, Python разработка
+- КНИТУ, Бизнес - планирование
+
+---
+
+Карьера
+- КНИТУ
+- Шелковый код
+
+---
+
+Победы и достижения в конкурсах
+- Топ 50 Лучших стартапов 2024
+- Победитель «50 Лучших Инновационных Идей для РТ»
+
+Участие в форумах, конференциях
+- 
